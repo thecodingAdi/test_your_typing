@@ -36,5 +36,12 @@ This is a Python-based **Typing Speed Test** application built using **Pygame** 
 
 ### 📦 Install dependencies
 
+---
+
+## Credits
+
+- [Transformers](https://huggingface.co/transformers/) by HuggingFace for text generation
+- [Pygame](https://www.pygame.org/news) for game development framework
+ 
 ```bash
 pip install pygame transformers
