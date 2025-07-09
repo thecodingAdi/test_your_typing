@@ -1,2 +1,29 @@
 # Created by venv; see https://docs.python.org/3/library/venv.html
-*
+*# Bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs or temporary files
+*.log
+*.tmp
+
+# Model files (if any)
+*.pt
+*.bin
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
