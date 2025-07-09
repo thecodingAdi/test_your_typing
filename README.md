@@ -20,7 +20,7 @@ This is a Python-based **Typing Speed Test** application built using **Pygame** 
 
 ## 🖥️ Screenshots
 
->  
+>  ![Typing Test Screenshot(before)](https://github.com/thecodingAdi/test_your_typing/blob/e13d42a7d6b508d655d2a0eaf07ed6a3c7f12f0f/Screenshot%20before.png)
 
 ---
 
